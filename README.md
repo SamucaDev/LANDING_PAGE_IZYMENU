@@ -1,6 +1,6 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://github.com/DevSamuelRodrigues/LANDING_PAGE_IZYMENU)
 
-<h1 align="center"><a id="user-content--robot-go-karuna-karuna-go-warning-" class="anchor" aria-hidden="true" href="#-robot-go-karuna-karuna-go-warning-">🚀 Landing Page IzyMenu 🚀</h1>
+<h1 align="center"><a id="user-content--robot-go-karuna-karuna-go-warning-" class="anchor" aria-hidden="true" href="#-robot-go-karuna-karuna-go-warning-">Landing Page IzyMenu</h1>
 
 <div align="center">
 <a target="_blank" rel="noopener noreferrer" href="/arghyadeep99/Go-Karuna-Go/blob/master/logo.jpg"><img src="https://i.imgur.com/UcyNN3W.png" class="center" style="max-width:100%;" width="800px" height="400px"></a>
